@@ -1,1 +1,2 @@
-#!/urs/bin/pwd
+#!/bin/bash
+pwd \n
